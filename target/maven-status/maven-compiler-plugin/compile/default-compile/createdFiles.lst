@@ -1,0 +1,16 @@
+com\brokerconnect\brokerai\model\LeadStatus.class
+com\brokerconnect\brokerai\repository\PropertyRepository.class
+com\brokerconnect\brokerai\model\Property.class
+com\brokerconnect\brokerai\repository\LeadRepository.class
+com\brokerconnect\brokerai\service\LeadService.class
+com\brokerconnect\brokerai\repository\InventoryRepository.class
+com\brokerconnect\brokerai\model\Inventory.class
+com\brokerconnect\brokerai\model\Lead.class
+com\brokerconnect\brokerai\model\Broker.class
+com\brokerconnect\brokerai\controller\InventoryController.class
+com\brokerconnect\brokerai\controller\LeadController.class
+com\brokerconnect\brokerai\service\InventoryService.class
+com\brokerconnect\brokerai\BrokerAiApplication.class
+com\brokerconnect\brokerai\service\BrokerService.class
+com\brokerconnect\brokerai\controller\BrokerController.class
+com\brokerconnect\brokerai\repository\BrokerRepository.class
